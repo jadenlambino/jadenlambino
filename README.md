@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jaden Lambino (he/him). I am a recent App Academy Bootcamp graduate. I am very passionate about software development and you can follow my journey here!
+
+![Jaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenlambino&show_icons=true&theme=gotham)
+
 <!--
 **jadenlambino/jadenlambino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
